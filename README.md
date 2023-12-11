@@ -9,3 +9,4 @@ Optics Express 27 (22), 31456 (2019) , Hiekkamaki Markus et al.](https://opg.opt
 
 [Link to the Library](https://zenodo.org/records/3570622)
 
+I also tried replacing propagation function with the one provided in this GihHub library [Link to GitHub Repository](https://github.com/yanleihu/Bluestein-Method) for the efficiency of calculation used in split-step-propagation, and you can check this out in the folder named 'consolidated'.
