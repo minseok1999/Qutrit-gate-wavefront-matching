@@ -7,4 +7,4 @@ Optics Express 27 (22), 31456 (2019) , Hiekkamaki Markus et al.](https://opg.opt
 
 , to program a set of spatial light modulators in the laboratory for use as qutrit quantum gates. I express my heartfelt appreciation to the authors for sharing [this invaluable library](https://zenodo.org/records/3570622).
 
-I also tried replacing propagation function with the one provided [in this GihHub library](https://github.com/yanleihu/Bluestein-Method) for the efficiency of calculation, and you can check this out in the folder named 'consolidated' under this repository.
+I also tried replacing propagation function with the one provided in [this GihHub library](https://github.com/yanleihu/Bluestein-Method) for the efficiency of calculation, and you can check this out in the folder named 'consolidated' under this repository.
